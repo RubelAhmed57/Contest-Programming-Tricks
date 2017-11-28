@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int ara[3][3] = {};
+	int ara[3][3] = {}; //array input size can be made dynamic, see in this repo
 	//take input
 	for (int row = 0; row < 3;row++)
 	{
